@@ -1,0 +1,7 @@
+{
+  "name": "Rasa Warisan - Malay Delicacy Recognizer",
+  "description": "An AI-powered culinary historian that identifies Malay traditional delicacies and provides recipes, history, and nutritional insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
